@@ -34,18 +34,8 @@ just type remove command in termux for restore old termux theme.
   <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
   </p>
 
-## Termux Tutor App (AD)
-<center><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxtutor"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-tutor.png" alt="Termux Tutor"  ></a><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxbannerx"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-bannerx.png" alt="Termux BannerX"  ></a> <a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxthemestore"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-themes.png" alt="Termux Themes Store"  ></a></center>
-<pre> 
-  Features :
-  - Complete Termux command list with explanations
-  - Easy tutorials for beginners
-  - Ethical hacking tools (educational use only)
-  - Linux basics, scripting, and automation
-  - Termux customization and themes
-  - Step-by-step guide for tool installation
-  - and much more..
-</pre>
+## Termux Apps (AD)
+<center><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxtutor"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-tutor.png" alt="Termux Tutor"  ></a><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxbannerx"> <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-bannerx.png" alt="Termux BannerX"  ></a> <a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxthemestore"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-themes.png" alt="Termux Themes Store"  ></a></center>
  
 ## Contribution :
 <pre>
