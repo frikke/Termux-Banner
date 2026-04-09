@@ -35,7 +35,7 @@ just type remove command in termux for restore old termux theme.
   </p>
 
 ## Termux Tutor App (AD)
-<center><a href="https://bit.ly/44Co9ou"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-tutor.png" alt="Termux Tutor"  ></a></center>
+<center><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxtutor"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-tutor.png" alt="Termux Tutor"  ></a><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxbannerx"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-bannerx.png" alt="Termux BannerX"  ></a> <a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxthemestore"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-themes.png" alt="Termux Themes Store"  ></a></center>
 <pre> 
   Features :
   - Complete Termux command list with explanations
@@ -46,7 +46,7 @@ just type remove command in termux for restore old termux theme.
   - Step-by-step guide for tool installation
   - and much more..
 </pre>
-
+ 
 ## Contribution :
 <pre>
 🎨 Calling All Creative Minds! Contribute to Termux-Banner Project
