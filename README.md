@@ -34,19 +34,16 @@ just type remove command in termux for restore old termux theme.
   <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
   </p>
 
-## Termux Toolbox App (AD)
-<center><a href="https://bit.ly/44Co9ou"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/termux_toolbox_banner2.jpg" alt="Termux Toolbox"  ></a></center>
+## Termux Tutor App (AD)
+<center><a href="https://bit.ly/44Co9ou"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-tutor.png" alt="Termux Tutor"  ></a></center>
 <pre> 
   Features :
-  - Cool UI
-  - Category Wise Tools
-  - Quick Linux Commands
-  - Basic to Advance Guide
-  - Powerful Termux Quiz
-  - AI Script Maker - Mr.Robot AI
-  - Programming Tutorials with Termux (included all language)
-  - 200+ Working Termux Tools
-  - Install any tool in termux with single commands.
+  - Complete Termux command list with explanations
+  - Easy tutorials for beginners
+  - Ethical hacking tools (educational use only)
+  - Linux basics, scripting, and automation
+  - Termux customization and themes
+  - Step-by-step guide for tool installation
   - and much more..
 </pre>
 
